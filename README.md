@@ -20,6 +20,7 @@ Completed
 Created to practice media handling and fast UI interactions in Android applications.
 
 ## Screenshots
-![1](https://github.com/user-attachments/assets/674ba1a3-9ad8-4688-b7d2-c8c321a1d279)
-![2](https://github.com/user-attachments/assets/8c992303-ebe6-44b0-b3b4-477379ccf655)
+![1](https://github.com/user-attachments/assets/48e20dd1-f252-46f1-ba69-0d24d8d92af0)
+![2](https://github.com/user-attachments/assets/68863ecd-b06b-429d-a898-7842ecfda41e)
+
 
